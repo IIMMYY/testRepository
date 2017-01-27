@@ -6,5 +6,6 @@ public class test1 {
         int i = 1;
         int j = 8 * 10;
         System.out.println("hhh " + j);
+        System.out.println(222);
     }
 }
