@@ -8,5 +8,6 @@ public class test2 {
         System.out.println("hhh " + j);
         System.out.println(33222);
         System.out.println("test7");
+        System.out.println("test7.1");
     }
 }
