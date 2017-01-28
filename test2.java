@@ -7,5 +7,6 @@ public class test2 {
         int j = 8 * 10;
         System.out.println("hhh " + j);
         System.out.println(33222);
+        System.out.println("test7");
     }
 }
