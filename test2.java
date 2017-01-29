@@ -20,5 +20,6 @@ public class test2 {
         System.out.println("test14_and_stash_2");
         System.out.println("test14_and_stash_3");
         System.out.println("test14_and_stash_3_5");
+        System.out.println("test14_and_stash_4");
     }
 }
