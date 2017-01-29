@@ -26,5 +26,6 @@ public class test2 {
         System.out.println("test15_and_stash_6.5");
         System.out.println("test15_and_stash_7");
         System.out.println("test15_and_stash_8");
+        System.out.println("test15_and_stash_9");
     }
 }
