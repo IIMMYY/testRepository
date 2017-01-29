@@ -17,5 +17,6 @@ public class test2 {
         System.out.println("test9.new");
         System.out.println("test14.master");
         System.out.println("test14_and_stash");
+        System.out.println("test14_and_stash_2");
     }
 }
